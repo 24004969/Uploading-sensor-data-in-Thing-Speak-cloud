@@ -81,7 +81,7 @@ Automatically act on your data and communicate using third-party services like T
 #include "DHT.h"
 
 
-char ssid[] = "Akshay";
+char ssid[] = "Ajay";
 char pass[] = "Loid D Ackerman :)";
 
 const int out = 23;

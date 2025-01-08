@@ -136,7 +136,7 @@ void loop()
 }
 ~~~
 # CIRCUIT DIAGRAM:
-![398304584-ef922c32-54fd-40f9-b352-060b4363ad84](https://github.com/user-attachments/assets/0b897c36-98ac-4464-92ff-bfb4e7d8c9a9)
+![iot 3](https://github.com/user-attachments/assets/8e113cd2-29d4-4e1d-94fe-57b03dafe11f)
 
 
 # OUTPUT:
